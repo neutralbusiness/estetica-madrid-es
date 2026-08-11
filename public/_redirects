@@ -1,0 +1,79 @@
+# Redirecciones para Cloudflare Pages · migración desde WordPress
+# Formato: origen  destino  código
+
+# --- Página de gracias del formulario antiguo ---
+/solicitud-recibida/            /contacto/                    301
+/solicitud-recibida             /contacto/                    301
+
+# --- Feeds de WordPress ---
+/feed                           /blog/                        301
+/feed/                          /blog/                        301
+/comments/feed/                 /blog/                        301
+/rss                            /blog/                        301
+/rss/                           /blog/                        301
+/atom.xml                       /blog/                        301
+/feed/atom/                     /blog/                        301
+/*/feed/                        /blog/                        301
+
+# --- Núcleo de WordPress ---
+/wp-admin                       /                             301
+/wp-admin/*                     /                             301
+/wp-login.php                   /                             301
+/wp-signup.php                  /                             301
+/wp-cron.php                    /                             301
+/xmlrpc.php                     /                             301
+/wp-json/*                      /                             301
+/wp-includes/*                  /                             301
+/readme.html                    /                             301
+/license.txt                    /                             301
+
+# --- Contenido subido y temas (imágenes y assets antiguos) ---
+/wp-content/uploads/*           /                             301
+/wp-content/themes/*            /                             301
+/wp-content/plugins/*           /                             301
+/wp-content/*                   /                             301
+
+# --- Taxonomías y archivos de WordPress ---
+/category/*                     /blog/                        301
+/tag/*                          /blog/                        301
+/author/*                       /sobre-nosotras/              301
+/blog/page/*                     /blog/                       301
+/page/*                         /                             301
+/2015/*                         /blog/                        301
+/2016/*                         /blog/                        301
+/2017/*                         /blog/                        301
+/2018/*                         /blog/                        301
+/2019/*                         /blog/                        301
+/2020/*                         /blog/                        301
+/2021/*                         /blog/                        301
+/2022/*                         /blog/                        301
+/2023/*                         /blog/                        301
+/2024/*                         /blog/                        301
+/2025/*                         /blog/                        301
+/2026/*                         /blog/                        301
+
+# --- Sitemaps y ficheros antiguos de Yoast ---
+/page-sitemap.xml               /sitemap.xml                  301
+/post-sitemap.xml               /sitemap.xml                  301
+/geo-sitemap.xml                /sitemap.xml                  301
+/locations.kml                  /contacto/                    301
+/sitemap-index.xml              /sitemap_index.xml            301
+
+# --- Rutas antiguas de servicios (por si estaban indexadas o enlazadas) ---
+/maderoterapia                  /maderoterapia-madrid/        301
+/maderoterapia/                 /maderoterapia-madrid/        301
+/tratamientos-faciales/         /tratamientos-faciales-madrid/ 301
+/tratamientos-corporales/       /tratamientos-corporales-madrid/ 301
+/micropigmentacion/             /micropigmentacion-cejas-madrid/ 301
+/micropigmentacion-cejas/       /micropigmentacion-cejas-madrid/ 301
+/masajes/                       /masajes-madrid/              301
+/servicios/                     /                             301
+/tarifas/precios/               /tarifas/                     301
+/precios/                       /tarifas/                     301
+/empresa/                       /sobre-nosotras/              301
+/nosotros/                      /sobre-nosotras/              301
+/sobre-nosotros/                /sobre-nosotras/              301
+/contactar/                     /contacto/                    301
+/aviso-legal/                   /legal/                       301
+/politica-de-privacidad/        /privacidad/                  301
+/politica-de-cookies/           /cookies/                     301
