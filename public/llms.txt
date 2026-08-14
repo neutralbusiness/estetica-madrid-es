@@ -1,65 +1,120 @@
 # Centro Estética Madrid
 
-> Centro de estética en Calle Diego de León 58, Escalera A, 28006 Madrid (barrio de Salamanca), abierto desde 2015 y dirigido por Jeisy. Especializado en maderoterapia corporal, tratamientos faciales y corporales, micropigmentación de cejas y masajes. Atiende con cita previa de lunes a viernes de 10:00 a 20:00. Más de 3.000 clientas atendidas.
+> Centro de estética en el barrio de Salamanca (Madrid) especializado en maderoterapia corporal, tratamientos faciales y corporales, micropigmentación de cejas y masajes. Abierto desde 2015, siempre con cita previa.
 
-## Datos del negocio
+## Datos clave
 
-- Nombre: Centro Estética Madrid
-- Tipo: centro de estética (BeautySalon)
-- Dirección: Calle Diego de León 58, Escalera A, 28006 Madrid, España
-- Barrio y distrito: entre Lista y Guindalera, distrito de Salamanca
-- Coordenadas: 40.434669, -3.677107
-- Teléfono y WhatsApp: +34 692 601 791
-- Correo electrónico: info@estetica-madrid.es
-- Horario: lunes a viernes de 10:00 a 20:00; sábados y domingos cerrado
-- Cita previa: obligatoria
-- Formas de pago: efectivo, tarjeta de crédito y débito, Bizum
-- Metro más cercano: Diego de León (líneas 4, 5 y 6)
-- Responsable: Jeisy, al frente del centro desde 2015
+- **Nombre:** Centro Estética Madrid
+- **Sector:** estetica
+- **Localidad:** Madrid (Comunidad de Madrid), España
+- **Web oficial:** https://www.estetica-madrid.es
+- **Teléfono / WhatsApp:** 692601791
+- **Email:** info@estetica-madrid.es
+- **Horario:** lunes a viernes 10:00–20:00
+- **En activo desde:** 2015
+- **Formas de pago:** Efectivo, tarjeta de crédito, tarjeta de débito, Bizum
+- **Idioma:** español
 
-## Servicios y precios orientativos (agosto de 2026)
+## Servicios principales
 
-- Maderoterapia corporal: 35 – 45 € por sesión de 45 minutos; bono de 10 sesiones, 300 – 380 €. Tratamiento completo de 6 a 10 sesiones.
-- Tratamientos faciales: higiene facial profunda 45 – 60 €; antiedad o radiofrecuencia facial 60 – 85 €. Frecuencia recomendada cada 4-6 semanas.
-- Tratamientos corporales: presoterapia 25 – 35 €; drenaje linfático manual 45 – 60 €; sesión combinada 50 – 60 €.
-- Micropigmentación de cejas pelo a pelo: 220 – 320 €, retoque de fijación a las 4-6 semanas incluido. Duración de 1 a 3 años.
-- Masajes: relajante, descontracturante, piedras calientes y aromaterapia, 40 – 60 € por sesión de 45 o 60 minutos.
-- Valoración inicial: gratuita, unos 20 minutos, con medición con cinta métrica o diagnóstico de piel.
+- [Maderoterapia corporal](https://www.estetica-madrid.es/maderoterapia-madrid/): precio orientativo 35–45 €
+- **Tratamiento facial personalizado**: precio orientativo 45–85 €
+- **Tratamiento corporal reductor y reafirmante**: precio orientativo 25–60 €
+- **Micropigmentación de cejas pelo a pelo**: precio orientativo 220–320 €
+- **Masaje relajante y descontracturante**: precio orientativo 40–60 €
 
-## Cómo trabaja el centro
+## Propuesta de valor
 
-- Una clienta por franja horaria; no se atiende sin cita previa.
-- Medición con cinta métrica antes de la primera sesión y revisión objetiva en la cuarta: si no hay cambio medible, se cambia el protocolo o se para el tratamiento.
-- Bonos de 5 y 10 sesiones con un 15-20 % menos por sesión y sin fecha de caducidad.
-- No se realizan tratamientos inyectables, láser médico ni procedimientos que requieran médico: es un centro de estética, no una clínica.
-- No se publican testimonios en la web; las opiniones verificables están en la ficha de Google del negocio.
-- Cancelación gratuita avisando con 24 horas por WhatsApp.
+- Especialización acreditada en: Maderoterapia, Drenaje linfático manual, Micropigmentación de cejas, Higiene facial profunda, Radiofrecuencia facial, Presoterapia, Masaje descontracturante, Tratamiento anticelulítico, Dermocosmética profesional
+- Pago flexible: Efectivo, tarjeta de crédito, tarjeta de débito, Bizum
 
-## Zonas atendidas
+## Preguntas frecuentes
 
-Barrio de Salamanca (Lista, Guindalera, Goya, Recoletos), Chamartín (Prosperidad, Hispanoamérica), Chamberí (Ríos Rosas, Trafalgar), Retiro, Ciudad Lineal y Arturo Soria.
+### ¿Cuántas sesiones de maderoterapia necesito para ver resultados?
+
+La mayoría de nuestras clientas empieza a ver cambios entre la tercera y la cuarta sesión. Un tratamiento completo de maderoterapia en Estética Madrid son entre 6 y 10 sesiones, con dos sesiones semanales al principio y una de mantenimiento después. Antes de empezar medimos el contorno de la zona con cinta métrica y volvemos a medir en la cuarta sesión, así el avance no depende de la sensación del día. Si en esa revisión no hay cambio medible, cambiamos el protocolo o te decimos con franqueza que la maderoterapia no es lo tuyo.
+
+### ¿La maderoterapia duele?
+
+No, la maderoterapia no debe doler. Es una técnica manual no invasiva: notarás presión firme y calor en la zona, sobre todo si hay celulitis instalada o retención. Ajustamos la intensidad al principio de cada sesión y te pedimos que la puntúes de 1 a 10 mientras trabajamos. Es normal que aparezcan algunos hematomas pequeños en piernas si tienes capilares frágiles; se van en cuatro o cinco días.
+
+### ¿Cuánto cuesta un tratamiento de estética en Madrid?
+
+En Estética Madrid una sesión suelta va de 25 € (presoterapia) a 85 € (facial antiedad completo), y la micropigmentación de cejas está entre 220 € y 320 € con el retoque incluido. Los bonos de 10 sesiones bajan el precio por sesión entre un 15 % y un 20 %. Puedes ver todos los rangos en nuestras tarifas de tratamientos de estética. La valoración inicial no se cobra y no te la vamos a facturar aunque después no reserves nada.
+
+### ¿Hace falta cita previa o puedo pasarme por el centro?
+
+Hace falta cita previa. Trabajamos con una sola clienta por franja para no solaparte con nadie, así que no atendemos sin reserva. Pedir cita por WhatsApp al +34 692 601 791 suele tardar menos de un minuto; si escribes fuera de horario, te contestamos a primera hora del día siguiente laborable.
+
+### ¿Dónde estáis exactamente y cómo llego en metro?
+
+Estamos en Calle Diego de León 58, Escalera A, 28006 Madrid, en el distrito de Salamanca. La boca de metro de Diego de León (líneas 4, 5 y 6) queda a pocos minutos andando, y también llegas bien desde Núñez de Balboa (líneas 5 y 9) o Avenida de América. Si vienes en coche, toda la calle es zona SER, por lo que conviene contar diez minutos extra o dejarlo en un aparcamiento de rotación de la zona.
+
+### ¿Cuánto dura la micropigmentación de cejas y cuándo se retoca?
+
+La micropigmentación de cejas dura entre 1 y 3 años según tu tipo de piel, la exposición al sol y los cuidados de las dos primeras semanas. La primera sesión ocupa unas dos horas contando el diseño previo, y el retoque de fijación se hace a las 4-6 semanas: va incluido en el precio. A partir de ahí, un repaso de mantenimiento cada 12-18 meses mantiene el color.
+
+### ¿Qué es mejor para la celulitis: maderoterapia o presoterapia?
+
+Para celulitis instalada la maderoterapia es más eficaz, porque el trabajo manual con los instrumentos de madera actúa sobre el tejido y rompe el nódulo; la presoterapia trabaja el líquido, no el nódulo. En la práctica los combinamos: primero 45 minutos de maderoterapia y después 20 de presoterapia para drenar lo movilizado. Si tu problema es sobre todo hinchazón al final del día, la presoterapia sola puede bastarte y sale más barata.
+
+### ¿Puedo hacerme un tratamiento facial si tengo la piel sensible o rosácea?
+
+Sí, con protocolo adaptado. En pieles sensibles y con rosácea evitamos vapor, extracciones agresivas y ácidos en concentración alta, y trabajamos con activos calmantes y barrera. Lo que no hacemos es aplicarte el mismo protocolo que a una piel grasa: la valoración inicial existe justamente para eso. Si estás en tratamiento dermatológico con retinoides o isotretinoína, dínoslo al pedir cita, porque hay que esperar.
+
+### ¿Ofrecéis bonos o packs de sesiones con descuento?
+
+Sí. Los bonos de 5 y 10 sesiones son la forma habitual de contratar maderoterapia y tratamientos corporales, y reducen el precio por sesión entre un 15 % y un 20 % frente a la sesión suelta. Los bonos no caducan a los tres meses como en muchas cadenas: mientras el centro siga abierto, tus sesiones siguen ahí. No trabajamos con contratos de financiación ni con permanencia.
+
+### ¿Cada cuánto conviene hacerse una limpieza facial profesional?
+
+Cada 4 a 6 semanas es la pauta general, porque coincide con el ciclo de renovación celular de la piel. En pieles grasas o con tendencia acneica bajamos a 3-4 semanas durante los primeros meses y luego espaciamos. En pieles secas o maduras, cada 8 semanas suele ser suficiente si mantienes una rutina en casa. Lo explicamos con más detalle en el artículo del blog sobre cada cuánto hacerse una limpieza facial.
+
+### ¿Atendéis a hombres?
+
+Sí, atendemos a hombres en todos los tratamientos. Los más habituales son la higiene facial profunda, el masaje descontracturante de espalda y cervicales, y la micropigmentación de cejas con diseño masculino, que es más recta y menos marcada. No tenemos tarifas distintas por sexo.
+
+### ¿Qué pasa si tengo que cancelar la cita?
+
+Puedes cancelar o mover la cita avisando con 24 horas por WhatsApp, sin coste. Te lo pedimos porque la franja queda bloqueada para ti y en hueco de tarde rara vez podemos reasignarla con menos margen. Si te surge algo inesperado, escríbenos igualmente: preferimos reprogramar antes que perderte.
+
+## Área de servicio
+
+Zona de trabajo: Madrid, Distrito de Salamanca, Madrid, Distrito de Chamartín, Madrid, Distrito de Chamberí, Madrid, Comunidad de Madrid.
+
+## Contacto y ubicación
+
+- **Nombre:** Centro Estética Madrid
+- **Dirección:** Calle Diego de León 58, Escalera A, 28006 Madrid, Comunidad de Madrid
+- **Teléfono / WhatsApp:** +34692601791
+- **Email:** info@estetica-madrid.es
+- **Web:** https://www.estetica-madrid.es
+- **Horario:** lunes a viernes 10:00–20:00
+- **Perfil:** https://www.facebook.com/clinicaesteticamadrid/
+- **Perfil:** https://maps.app.goo.gl/5iUztGzj8W1RQgpQ8
 
 ## Recursos
 
-- [Página principal](https://www.estetica-madrid.es/)
-- [Maderoterapia en Madrid](https://www.estetica-madrid.es/maderoterapia-madrid/)
-- [Tratamientos faciales en Madrid](https://www.estetica-madrid.es/tratamientos-faciales-madrid/)
-- [Tratamientos corporales en Madrid](https://www.estetica-madrid.es/tratamientos-corporales-madrid/)
-- [Micropigmentación de cejas en Madrid](https://www.estetica-madrid.es/micropigmentacion-cejas-madrid/)
-- [Masajes en Madrid](https://www.estetica-madrid.es/masajes-madrid/)
-- [Tarifas y bonos](https://www.estetica-madrid.es/tarifas/)
-- [Sobre nosotras](https://www.estetica-madrid.es/sobre-nosotras/)
-- [Opiniones y garantías](https://www.estetica-madrid.es/opiniones/)
-- [Contacto y cómo llegar](https://www.estetica-madrid.es/contacto/)
+- [Inicio](https://www.estetica-madrid.es/)
+- [Maderoterapia Madrid](https://www.estetica-madrid.es/maderoterapia-madrid/)
+- [Tratamientos Faciales Madrid](https://www.estetica-madrid.es/tratamientos-faciales-madrid/)
+- [Tratamientos Corporales Madrid](https://www.estetica-madrid.es/tratamientos-corporales-madrid/)
+- [Micropigmentacion Cejas Madrid](https://www.estetica-madrid.es/micropigmentacion-cejas-madrid/)
+- [Masajes Madrid](https://www.estetica-madrid.es/masajes-madrid/)
+- [Tarifas](https://www.estetica-madrid.es/tarifas/)
+- [Sobre Nosotras](https://www.estetica-madrid.es/sobre-nosotras/)
+- [Opiniones](https://www.estetica-madrid.es/opiniones/)
+- [Contacto](https://www.estetica-madrid.es/contacto/)
 - [Blog](https://www.estetica-madrid.es/blog/)
-- [Cuántas sesiones de maderoterapia necesitas](https://www.estetica-madrid.es/blog/cuantas-sesiones-maderoterapia/)
-- [Cuidados después de la micropigmentación de cejas](https://www.estetica-madrid.es/blog/cuidados-micropigmentacion-cejas/)
-- [Cada cuánto hacerse una limpieza facial](https://www.estetica-madrid.es/blog/cada-cuanto-limpieza-facial/)
-- [Maderoterapia o cavitación](https://www.estetica-madrid.es/blog/maderoterapia-o-cavitacion/)
-- [Estética en el barrio de Salamanca](https://www.estetica-madrid.es/estetica-barrio-salamanca/)
-- [Estética en Chamartín](https://www.estetica-madrid.es/estetica-chamartin/)
-- [Estética en Chamberí](https://www.estetica-madrid.es/estetica-chamberi/)
-- [Aviso legal](https://www.estetica-madrid.es/legal/)
-- [Política de privacidad](https://www.estetica-madrid.es/privacidad/)
-- [Política de cookies](https://www.estetica-madrid.es/cookies/)
-- [Mapa del sitio XML](https://www.estetica-madrid.es/sitemap_index.xml)
+- [Blog › Cuantas Sesiones Maderoterapia](https://www.estetica-madrid.es/blog/cuantas-sesiones-maderoterapia/)
+- [Blog › Cuidados Micropigmentacion Cejas](https://www.estetica-madrid.es/blog/cuidados-micropigmentacion-cejas/)
+- [Blog › Cada Cuanto Limpieza Facial](https://www.estetica-madrid.es/blog/cada-cuanto-limpieza-facial/)
+- [Blog › Maderoterapia O Cavitacion](https://www.estetica-madrid.es/blog/maderoterapia-o-cavitacion/)
+- [Estetica Barrio Salamanca](https://www.estetica-madrid.es/estetica-barrio-salamanca/)
+- [Estetica Chamartin](https://www.estetica-madrid.es/estetica-chamartin/)
+- [Estetica Chamberi](https://www.estetica-madrid.es/estetica-chamberi/)
+
+## Sitemap
+
+- [Mapa del sitio XML](https://www.estetica-madrid.es/sitemap.xml)
+- [Este archivo](https://www.estetica-madrid.es/llms.txt) sigue el estándar [llms.txt](https://llmstxt.org/) para asistentes de IA.
