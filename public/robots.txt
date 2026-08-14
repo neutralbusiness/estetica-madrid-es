@@ -75,5 +75,16 @@ Disallow: /
 User-agent: DotBot
 Disallow: /
 
+# Rastreadores de IA: acceso permitido (AEO)
+User-agent: Claude-User
+Allow: /
+User-agent: Perplexity-User
+Allow: /
+User-agent: meta-externalagent
+Allow: /
+User-agent: CCBot
+Allow: /
+
+
 Sitemap: https://www.estetica-madrid.es/sitemap_index.xml
 Sitemap: https://www.estetica-madrid.es/sitemap.xml
