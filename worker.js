@@ -6,7 +6,12 @@ export default {
       return Response.redirect(url.toString(), 301);
     }
 
-    const __r = await env.ASSETS.fetch(request);
+    let __r = await env.ASSETS.fetch(request);
+    if (url.pathname.endsWith(".txt") && __r.headers.get("content-type") === "text/plain") {
+      const __h = new Headers(__r.headers);
+      __h.set("content-type", "text/plain; charset=utf-8");
+      __r = new Response(__r.body, { status: __r.status, statusText: __r.statusText, headers: __h });
+    }
     const __ct = __r.headers.get("content-type") || "";
     if (!__ct.includes("text/html")) return __r;
     return new HTMLRewriter()
