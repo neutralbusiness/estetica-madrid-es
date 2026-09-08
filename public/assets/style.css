@@ -414,3 +414,16 @@ table{border-collapse:collapse;width:100%}
   .site-header,.nav,.cta-band,.site-footer{display:none}
   body{background:#fff}
 }
+
+
+/* nb-ancho-pantalla */
+/* Ancho de pantalla: el contenedor deja de tener tope fijo y el margen pasa a
+   ser un carril proporcional (96px a 1920, 72 a 1440, 64 a 1280). El texto no
+   se estira: el titular se queda en medida de lectura. Por debajo de 1280 no
+   cambia nada. */
+@media(min-width:1280px){
+.container,.header-inner{max-width:none;width:auto;padding-inline:clamp(1rem,5vw,6rem);margin-inline:auto}
+h1{max-width:961px}
+.container p,.header-inner p{max-width:72ch}
+.blog-empty h1,.blog-empty p,.error-wrap h1,.error-wrap p{margin-inline:auto}
+}
