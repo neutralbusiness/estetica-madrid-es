@@ -63,8 +63,6 @@ User-agent: WhatsApp
 Allow: /
 
 # Scrapers comerciales de SEO: bloqueados
-User-agent: AhrefsBot
-Disallow: /
 
 User-agent: SemrushBot
 Disallow: /
@@ -85,6 +83,9 @@ Allow: /
 User-agent: CCBot
 Allow: /
 
-
 Sitemap: https://www.estetica-madrid.es/sitemap_index.xml
 Sitemap: https://www.estetica-madrid.es/sitemap.xml
+
+# Ahrefs autorizado (auditorías SEO propias)
+User-agent: AhrefsBot
+Allow: /
