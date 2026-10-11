@@ -422,7 +422,7 @@ table{border-collapse:collapse;width:100%}
    se estira: el titular se queda en medida de lectura. Por debajo de 1280 no
    cambia nada. */
 @media(min-width:1280px){
-.container,.header-inner{max-width:none;width:auto;padding-inline:clamp(1rem,5vw,6rem);margin-inline:auto}
+.container,.header-inner{max-width:1440px;width:auto;padding-inline:clamp(1rem,4vw,5rem);margin-inline:auto}
 h1{max-width:961px}
 .container p,.header-inner p{max-width:72ch}
 .blog-empty h1,.blog-empty p,.error-wrap h1,.error-wrap p{margin-inline:auto}
