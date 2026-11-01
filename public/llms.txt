@@ -2,6 +2,8 @@
 
 > Centro de estética en el barrio de Salamanca (Madrid) especializado en maderoterapia corporal, tratamientos faciales y corporales, micropigmentación de cejas y masajes. Abierto desde 2015, siempre con cita previa.
 
+Cada página de esta web tiene versión en markdown: añade `index.md` a su URL (por ejemplo, https://www.estetica-madrid.es/index.md).
+
 ## Datos clave
 
 - **Nombre:** Centro Estética Madrid
