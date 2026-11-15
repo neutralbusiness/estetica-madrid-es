@@ -72,6 +72,10 @@
     for (var j = 0; j < reveals.length; j++) reveals[j].classList.add('is-visible');
     return;
   }
+  var vh = window.innerHeight || document.documentElement.clientHeight;
+  for (var v = 0; v < reveals.length; v++) {
+    if (reveals[v].getBoundingClientRect().top < vh) reveals[v].classList.add('is-visible');
+  }
   var io = new IntersectionObserver(function (entries) {
     entries.forEach(function (entry) {
       if (entry.isIntersecting) {
@@ -79,6 +83,7 @@
         io.unobserve(entry.target);
       }
     });
-  }, { rootMargin: '0px 0px -8% 0px', threshold: 0.06 });
-  for (var k = 0; k < reveals.length; k++) io.observe(reveals[k]);
+  }, { rootMargin: '0px', threshold: 0.01 });
+  document.documentElement.classList.add('rv');
+  for (var k = 0; k < reveals.length; k++) if (!reveals[k].classList.contains('is-visible')) io.observe(reveals[k]);
 })();

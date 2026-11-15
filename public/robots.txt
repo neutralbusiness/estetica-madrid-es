@@ -84,7 +84,6 @@ User-agent: CCBot
 Allow: /
 
 Sitemap: https://www.estetica-madrid.es/sitemap_index.xml
-Sitemap: https://www.estetica-madrid.es/sitemap.xml
 
 # Ahrefs autorizado (auditorías SEO propias)
 User-agent: AhrefsBot
