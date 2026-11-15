@@ -1,33 +1,53 @@
 [
   {
-    "slug": "cuantas-sesiones-maderoterapia",
-    "title": "¿Cuántas sesiones de maderoterapia necesitas? Lo que vemos en cabina",
-    "excerpt": "Entre 6 y 10 sesiones para un tratamiento completo, con los primeros cambios en la tercera o cuarta. Te contamos de qué depende y cómo lo medimos.",
-    "publishDate": "2026-06-12",
-    "category": "Maderoterapia",
-    "image": "/img/blog-maderoterapia-sesiones.webp?v=9f8b02ea",
-    "readTime": 6,
-    "author": "Equipo de Estética Madrid"
-  },
-  {
-    "slug": "cuidados-micropigmentacion-cejas",
-    "title": "Cuidados después de la micropigmentación de cejas: los 14 primeros días",
-    "excerpt": "El resultado se decide fuera de la cabina. Qué evitar, qué hacer cada día y por qué el color baja tanto en la primera semana.",
-    "publishDate": "2026-07-03",
-    "category": "Micropigmentación",
-    "image": "/img/blog-cuidados-micropigmentacion.webp?v=17453949",
-    "readTime": 7,
-    "author": "Equipo de Estética Madrid"
-  },
-  {
-    "slug": "cada-cuanto-limpieza-facial",
-    "title": "Cada cuánto hacerse una limpieza facial según tu tipo de piel",
-    "excerpt": "Cada 4 a 6 semanas es la pauta general, pero cambia bastante entre una piel grasa joven y una piel madura y seca.",
-    "publishDate": "2026-07-24",
+    "slug": "tratamiento-facial-piel-sensible-madrid",
+    "title": "Tratamiento facial para piel sensible: qué hacemos, qué aplazamos y por qué",
+    "excerpt": "Si la crema te escuece, te salen rojeces sin motivo o una limpieza te dejó la cara ardiendo, este artículo es para ti. Cómo trabajamos una piel reactiva en cabina y qué decisiones no nos tocan.",
+    "publishDate": "2026-11-16",
     "category": "Faciales",
-    "image": "/img/blog-limpieza-facial-frecuencia.webp?v=a905038b",
-    "readTime": 5,
-    "author": "Equipo de Estética Madrid"
+    "image": "/img/blog-piel-sensible.webp?v=5d65f5a8",
+    "readTime": 6,
+    "author": "Centro Estética Madrid"
+  },
+  {
+    "slug": "rejuvenecimiento-facial-sin-cirugia-madrid",
+    "title": "Rejuvenecimiento facial sin cirugía: lo que sí hace una cabina y lo que no",
+    "excerpt": "Arrugas finas, falta de firmeza, manchas o piel apagada. Qué tratamiento de estética encaja con cada cosa, cuánto cuesta en Diego de León y dónde empieza el terreno del médico.",
+    "publishDate": "2026-11-16",
+    "category": "Faciales",
+    "image": "/img/blog-rejuvenecimiento-facial.webp?v=21feca25",
+    "readTime": 7,
+    "author": "Centro Estética Madrid"
+  },
+  {
+    "slug": "presoterapia-madrid-precio-sesiones",
+    "title": "Presoterapia en Madrid: qué hace, cuánto cuesta y cuándo no conviene",
+    "excerpt": "Sirve para las piernas cargadas y la retención, no para adelgazar. Te contamos cómo es la sesión, lo que cuesta en Diego de León y los casos en los que hay que pasar antes por el médico.",
+    "publishDate": "2026-11-16",
+    "category": "Tratamientos corporales",
+    "image": "/img/blog-presoterapia-madrid.webp?v=e0066f0b",
+    "readTime": 6,
+    "author": "Centro Estética Madrid"
+  },
+  {
+    "slug": "micropigmentacion-labios-madrid",
+    "title": "Micropigmentación de labios en Madrid: cómo es, cuánto dura y qué cuidados pide",
+    "excerpt": "Color y definición en el contorno, sin volumen añadido. Lo que conviene saber antes de pedir cita, con el precio del centro y los cuidados de las dos primeras semanas.",
+    "publishDate": "2026-11-16",
+    "category": "Micropigmentación",
+    "image": "/img/blog-micropigmentacion-labios.webp?v=d9235cb5",
+    "readTime": 6,
+    "author": "Centro Estética Madrid"
+  },
+  {
+    "slug": "bonos-estetica-madrid-que-mirar",
+    "title": "Bonos de estética en Madrid: lo que conviene mirar antes de pagar",
+    "excerpt": "Un bono barato puede salir caro. Seis comprobaciones sencillas antes de pagar por adelantado, con los números de nuestro propio centro como ejemplo.",
+    "publishDate": "2026-11-16",
+    "category": "Guías",
+    "image": "/img/blog-bonos-estetica.webp?v=14673d61",
+    "readTime": 6,
+    "author": "Centro Estética Madrid"
   },
   {
     "slug": "maderoterapia-o-cavitacion",
@@ -37,6 +57,36 @@
     "category": "Tratamientos corporales",
     "image": "/img/blog-maderoterapia-vs-cavitacion.webp?v=dd372abe",
     "readTime": 6,
-    "author": "Equipo de Estética Madrid"
+    "author": "Centro Estética Madrid"
+  },
+  {
+    "slug": "cada-cuanto-limpieza-facial",
+    "title": "Cada cuánto hacerse una limpieza facial según tu tipo de piel",
+    "excerpt": "Cada 4 a 6 semanas es la pauta general, pero cambia bastante entre una piel grasa joven y una piel madura y seca.",
+    "publishDate": "2026-07-24",
+    "category": "Faciales",
+    "image": "/img/blog-limpieza-facial-frecuencia.webp?v=a905038b",
+    "readTime": 5,
+    "author": "Centro Estética Madrid"
+  },
+  {
+    "slug": "cuidados-micropigmentacion-cejas",
+    "title": "Cuidados después de la micropigmentación de cejas: los 14 primeros días",
+    "excerpt": "El resultado se decide fuera de la cabina. Qué evitar, qué hacer cada día y por qué el color baja tanto en la primera semana.",
+    "publishDate": "2026-07-03",
+    "category": "Micropigmentación",
+    "image": "/img/blog-cuidados-micropigmentacion.webp?v=17453949",
+    "readTime": 7,
+    "author": "Centro Estética Madrid"
+  },
+  {
+    "slug": "cuantas-sesiones-maderoterapia",
+    "title": "¿Cuántas sesiones de maderoterapia necesitas? Lo que vemos en cabina",
+    "excerpt": "Entre 6 y 10 sesiones para un tratamiento completo, con los primeros cambios en la tercera o cuarta. Te contamos de qué depende y cómo lo medimos.",
+    "publishDate": "2026-06-12",
+    "category": "Maderoterapia",
+    "image": "/img/blog-maderoterapia-sesiones.webp?v=9f8b02ea",
+    "readTime": 6,
+    "author": "Centro Estética Madrid"
   }
 ]
